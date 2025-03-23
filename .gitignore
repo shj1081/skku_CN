@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.class
+*.log
+target/
+out/
+
+# C++
+*.o
+*.exe
+*.exec
+*.out
+*.obj
+*.bin
+*.dSYM/
+*.user
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
