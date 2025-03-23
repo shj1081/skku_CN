@@ -25,15 +25,56 @@
 
 5. **How to Run the Program**
 
-   - Python:
-     ```bash
-     python3 filename.py
-     ```
-   - C++ (Mac environment)
-     ```bash
-     g++ filename.cpp -o executable_name
-     ./executable_name
-     ```
+   1. **Navigate to the Project Directory**:
+      Open your terminal and change the directory to where your assignment files are located:
+
+      ```bash
+      cd /path/to/hw1
+      ```
+
+   2. **Compile the Code**:
+      Use the `Makefile` to compile both the TCP and UDP client programs. Run the following command:
+
+      ```bash
+      make
+      ```
+
+      This will generate the executables `tcp-client.o` and `udp-client.o`.
+
+   3. **Run the TCP Server**:
+      Open a terminal window and run the TCP server:
+
+      ```bash
+      python3 tcp-server.py
+      ```
+
+      This will start the TCP server, which listens for incoming connections.
+
+   4. **Run the TCP Client**:
+      In another terminal window, run the TCP client:
+
+      ```bash
+      ./tcp-client.o
+      ```
+
+      Enter an expression when prompted (e.g., `10+5-3`). The client will send this expression to the server.
+
+   5. **Check the Result**:
+      After the server processes the expression, it will send back the result. The client will save the expression and the result in `result.txt`. You can check the contents of `result.txt` to see the output.
+
+   6. **Run the UDP Server** (if needed):
+      If you want to test the UDP functionality, open another terminal window and run the UDP server:
+
+      ```bash
+      python3 udp-server.py
+      ```
+
+   7. **Run the UDP Client**:
+      In another terminal window, run the UDP client:
+      ```bash
+      ./udp-client.o
+      ```
+      Again, enter an expression when prompted. The UDP client will send the expression to the server and receive the result.
 
 6. **Expression Limitations**
    - Only integers, addition (+), and subtraction (-) are included

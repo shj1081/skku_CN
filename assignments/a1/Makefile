@@ -9,11 +9,12 @@ TCP_CLIENT_SRC = tcp-client.cpp
 UDP_CLIENT_SRC = udp-client.cpp
 
 # Executables
-TCP_CLIENT = tcp-client.o
-UDP_CLIENT = udp-client.o
+TCP_CLIENT = tcp-client.out
+UDP_CLIENT = udp-client.out
+RESULT_FILE = result.txt
 
 # Targets
-all: tcp-client.o udp-client.o
+all: tcp udp
 
 tcp: $(TCP_CLIENT_SRC)
 	$(CXX) $(CXXFLAGS) -o $(TCP_CLIENT) $(TCP_CLIENT_SRC)
@@ -22,6 +23,6 @@ udp: $(UDP_CLIENT_SRC)
 	$(CXX) $(CXXFLAGS) -o $(UDP_CLIENT) $(UDP_CLIENT_SRC)
 
 clean:
-	rm -f $(TCP_CLIENT) $(UDP_CLIENT)
+	rm -f $(TCP_CLIENT) $(UDP_CLIENT) $(RESULT_FILE)
 
 .PHONY: all clean
