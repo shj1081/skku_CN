@@ -54,7 +54,7 @@
       In another terminal window, run the TCP client:
 
       ```bash
-      ./tcp-client.o
+      ./tcp-client
       ```
 
       Enter an expression when prompted (e.g., `10+5-3`). The client will send this expression to the server.
@@ -72,7 +72,7 @@
    7. **Run the UDP Client**:
       In another terminal window, run the UDP client:
       ```bash
-      ./udp-client.o
+      ./udp-client
       ```
       Again, enter an expression when prompted. The UDP client will send the expression to the server and receive the result.
 
