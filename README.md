@@ -10,3 +10,7 @@
 
 - [1.1 - Overview of Internet](/notes/1.1-overview-of-internet.md)
 - [1.2 - Protocol Layering](/notes/1.2-protocal-layering.md)
+
+## Weekly Q&A
+
+- [Week 3](/notes/week3-qna.md)
