@@ -3,6 +3,7 @@
 ## Assignments
 
 - [Assignment 1](assignments/a1/)
+- [Assignment 2](assignments/a2/)
 
 ## Notes
 
@@ -25,6 +26,8 @@
 - [2.4.2 - Peer-to-Peer Paradigm - Chord](/notes/2.4.2-p2p-chord.md)
 - [2.4.3 - Peer-to-Peer Paradigm - Kademlia](/notes/2.4.3-p2p-kademlia.md)
 - [2.5 - Socket Interface](/notes/2.5-socket-interface.md)
+
+### 3. Transport Layer
 
 ## Weekly Q&A
 
