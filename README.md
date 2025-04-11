@@ -29,3 +29,4 @@
 ## Weekly Q&A
 
 - [Week 3](/notes/week3-qna.md)
+- [Week 4](/notes/week4-qna.md)
