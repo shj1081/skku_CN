@@ -21,6 +21,10 @@
 - [2.3.2 - Standard Client-Server Application - FTP](/notes/2.3.2-ftp.md)
 - [2.3.3 - Standard Client-Server Application - Electronic Mail](/notes/2.3.3-mail.md)
 - [2.3.4 - Standard Client-Server Application - DNS](/notes/2.3.4-dns.md)
+- [2.4.1 - Peer-to-Peer Paradigm - P2P network](/notes/2.4.1-p2p.md)
+- [2.4.2 - Peer-to-Peer Paradigm - Chord](/notes/2.4.2-p2p-chord.md)
+- [2.4.3 - Peer-to-Peer Paradigm - Kademlia](/notes/2.4.3-p2p-kademlia.md)
+- [2.5 - Socket Interface](/notes/2.5-socket-interface.md)
 
 ## Weekly Q&A
 
