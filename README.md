@@ -17,7 +17,7 @@
 
 - [2.1 - Introduction](/notes/2.1-introduction.md)
 - [2.2.1 - Client-Server Application - socket](/notes/2.2.1-socket.md)
-- [2.2.2 - Client-Server Application - transport layer protocol](/notes/2.2.2-transport-layer-protocol.md)
+- [2.2.2 - Client-Server Application - transport layer protocol (breif)](/notes/2.2.2-transport-layer-protocol.md)
 - [2.3.1 - Standard Client-Server Application - WWW and HTTP](/notes/2.3.1-www-http.md)
 - [2.3.2 - Standard Client-Server Application - FTP](/notes/2.3.2-ftp.md)
 - [2.3.3 - Standard Client-Server Application - Electronic Mail](/notes/2.3.3-mail.md)
@@ -28,6 +28,9 @@
 - [2.5 - Socket Interface](/notes/2.5-socket-interface.md)
 
 ### 3. Transport Layer
+
+- [3.1 - Introduction (transport layer services)](/notes/3.1-transport-layer-service.md)
+- [3.2 - transport layer protocols](/notes/3.2-transport-layer-protocol.md)
 
 ## Weekly Q&A
 
