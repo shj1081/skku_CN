@@ -31,6 +31,8 @@
 
 - [3.1 - Introduction (transport layer services)](/notes/3.1-transport-layer-service.md)
 - [3.2 - transport layer protocols](/notes/3.2-transport-layer-protocol.md)
+- [3.3 - UDP](/notes/3.3-udp.md)
+- [3.4 - TCP](/notes/3.4-tcp.md)
 
 ## Weekly Q&A
 
