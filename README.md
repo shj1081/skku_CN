@@ -40,3 +40,4 @@
 - [Week 4](/notes/week4-qna.md)
 - [Week 5](/notes/week5-qna.md)
 - [Week 6](/notes/week6-qna.md)
+- [Week 7](/notes/week7-qna.md)
